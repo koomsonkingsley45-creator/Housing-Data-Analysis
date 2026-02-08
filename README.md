@@ -37,10 +37,11 @@ I created a dashboard to make the data easier to see at a glance.
 
 The visualizations are displayed below:
 # Dashboards
-![Housing Dashboard](https://github.com/user-attachments/assets/ef04e42b-ee0d-4370-9cd6-6a9a4b77fe34)
+![Housing Dashboard 1](https://github.com/user-attachments/assets/ef04e42b-ee0d-4370-9cd6-6a9a4b77fe34)
+![Housing Dashboard 2](https://github.com/user-attachments/assets/b2f11d95-30d2-4a33-bb8b-4f8870dcd5f1)
 
 # Tables
-![Table 1](https://github.com/user-attachments/assets/b2f11d95-30d2-4a33-bb8b-4f8870dcd5f1)
+
 ![Table 2](https://github.com/user-attachments/assets/b7e3457f-257a-4785-af96-24a2f5f39629)
 ![Table 3](https://github.com/user-attachments/assets/ab37f257-9fd4-4bda-a27c-8692895b8ff2)
 ![Table 4](https://github.com/user-attachments/assets/d8b6d6dd-6f9c-4a17-8ded-eda95556881c)
