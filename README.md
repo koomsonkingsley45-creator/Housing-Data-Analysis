@@ -1,6 +1,7 @@
 # Housing-Data-Analysis
 I built this project to master the end-to-end data analysis process. By cleaning raw data, performing exploratory analysis, and building a visual dashboard, I have demonstrated my ability to turn complex housing datasets into clear, professional insights.
-1. Project Overview
+
+# 1. Project Overview
 For my first data project, I worked on a housing dataset to see what actually makes a house more expensive. I used Microsoft Excel to go through the raw data, clean it up, and look for patterns. The main goal was to take a messy list of house details and turn them into clear information that could help someone buying or selling a home understand the market better.
 
 # 2. Problem Definition
@@ -45,3 +46,18 @@ The visualizations are displayed below:
 ![Table 2](https://github.com/user-attachments/assets/b7e3457f-257a-4785-af96-24a2f5f39629)
 ![Table 3](https://github.com/user-attachments/assets/ab37f257-9fd4-4bda-a27c-8692895b8ff2)
 ![Table 4](https://github.com/user-attachments/assets/d8b6d6dd-6f9c-4a17-8ded-eda95556881c)
+
+# 7. Interpretation & Key Insights
+After looking at the charts, here is what I discovered:
+•	Major Influencers: Air Conditioning (AC) and being on a Main Road seem to be huge factors. Houses with AC are almost always in the higher price brackets.
+•	Value Segments: There is a "sweet spot" in the mid-range where you get a decent-sized house (4,000–6,000 sq ft) without the "luxury" price tag of the very large estates.
+•	Trends: Most buyers seem to be looking for semi-furnished homes, as they make up a large portion of the data.
+
+# 8. Recommendations
+If I were advising a real estate agent or a builder based on this data, I would suggest:
+1.	Prioritize AC: Since AC has such a strong link to higher prices, adding cooling units to a "Low" tier house is likely the fastest way to increase its resale value.
+2.	Focus on Mid-Sized Lots: Because most houses are in the 5,000 sq ft range, developers should focus on this size to stay within the most active part of the market.
+3.	Marketing Basements: Medium-priced homes often have basements; highlighting this feature can help a seller move their property from the "Low" category to "Medium."
+
+# 9. Conclusion 
+This project helped me see how data can take the guesswork out of real estate. By cleaning the data and using Pivot Tables, I was able to prove that while size (area) is important, 
