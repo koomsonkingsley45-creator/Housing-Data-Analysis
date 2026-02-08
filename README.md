@@ -37,7 +37,7 @@ I created a dashboard to make the data easier to see at a glance.
 
 The visualizations are displayed below:
 # Dashboards
-[Housing Dashboard](https://github.com/user-attachments/assets/ef04e42b-ee0d-4370-9cd6-6a9a4b77fe34)
+![Housing Dashboard](https://github.com/user-attachments/assets/ef04e42b-ee0d-4370-9cd6-6a9a4b77fe34)
 
 
 
