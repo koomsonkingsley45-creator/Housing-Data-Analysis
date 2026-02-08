@@ -60,4 +60,6 @@ If I were advising a real estate agent or a builder based on this data, I would 
 3.	Marketing Basements: Medium-priced homes often have basements; highlighting this feature can help a seller move their property from the "Low" category to "Medium."
 
 # 9. Conclusion 
-This project helped me see how data can take the guesswork out of real estate. By cleaning the data and using Pivot Tables, I was able to prove that while size (area) is important, 
+This project helped me see how data can take the guesswork out of real estate. By cleaning the data and using Pivot Tables, I was able to prove that while size (area) is important,specific features like AC and furnishing status are what really push a house into the premium price range.
+
+
